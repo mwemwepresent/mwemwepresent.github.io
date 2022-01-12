@@ -285,7 +285,7 @@ header .navbar {
 
 .owl-banner .item .item-content .meta-category span {
 	color: #ffe4e1;
-	font-size: 18px;
+	font-size: 30px;
 	text-transform: uppercase;
 	font-weight: 900;
 	letter-spacing: 0.25px;
@@ -294,7 +294,7 @@ header .navbar {
 }
 
 .owl-banner .item .item-content h4 {
-	font-size: 24px;
+	font-size: 30px;
 	font-weight: 900;
 	color: #fff;
 	letter-spacing: 0.5px;
