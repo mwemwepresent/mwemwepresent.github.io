@@ -289,6 +289,8 @@ header .navbar {
 	text-transform: uppercase;
 	font-weight: 900;
 	letter-spacing: 0.25px;
+	text-align: center;
+
 }
 
 .owl-banner .item .item-content h4 {
@@ -298,6 +300,8 @@ header .navbar {
 	letter-spacing: 0.5px;
 	text-transform: capitalize;
 	margin: 10px 0px 12px 0px;
+	text-align: center;
+
 }
 
 .owl-banner .item .item-content ul li {
@@ -359,6 +363,13 @@ header .navbar {
 
 
 /* Call To Action */
+
+.centergif{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;  
+}
 
 .call-to-action {
 	margin-top: 100px;
