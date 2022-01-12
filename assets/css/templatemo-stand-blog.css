@@ -373,9 +373,10 @@ header .navbar {
 
 .content{
 	color: #1e1e1e;
-	text-transform: uppercase;
 	font-size: 24px;
 	font-weight: 900;
+	margin: auto;
+	width: 50%;  
 }
 
 .call-to-action {
