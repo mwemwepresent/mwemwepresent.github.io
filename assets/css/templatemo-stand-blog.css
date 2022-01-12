@@ -371,6 +371,13 @@ header .navbar {
 	width: 30%;  
 }
 
+.content{
+	color: #1e1e1e;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: 900;
+}
+
 .call-to-action {
 	margin-top: 100px;
 }
