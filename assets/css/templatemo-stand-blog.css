@@ -36,8 +36,8 @@ h1,h2,h3,h4,h5,h6 {
 .main-button a {
 	display: inline-block;
 	background-color: #ffe4e1	;
-	color: #fff;
-	font-size: 13px;
+	color: rgb(0, 0, 0);
+	font-size: 24px;
 	font-weight: 500;
 	padding: 12px 20px;
 	text-transform: uppercase;
