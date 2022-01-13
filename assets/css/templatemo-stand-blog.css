@@ -381,6 +381,14 @@ header .navbar {
 
 }
 
+.imagecontent{
+	margin: auto;
+	width: 50%;  
+	height: 50%;
+
+}
+
+
 img.reminder{
 	height: 50%;
 	width: 50%;
