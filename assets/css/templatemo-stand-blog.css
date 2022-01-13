@@ -382,8 +382,8 @@ header .navbar {
 }
 
 img.reminder{
-	height: auto;
-	width: auto;
+	height: 50%;
+	width: 50%;
 }
 
 .call-to-action {
